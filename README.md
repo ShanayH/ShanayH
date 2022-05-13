@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShanayH
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning GitHub (clearly) 
+- 🌱 I’m currently learning GitHub
 - 📫 How to reach me - email shanay.taylor@hotmail.com 
 
 <!---
